@@ -10,7 +10,7 @@ I currently reside in Paris, France.
 
 - (Current) École 42, Paris, July 2023 - Present
 - 42 Seoul, Seoul, August 2021 - July 2023
-- Bachelor's degree, Yonsei University, Won-Ju, February 2017 - August 2021 (GPA: 3.82 / 4.5)
+- Yonsei University, Won-Ju, February 2017 - August 2021 ,Bachelor's degree in Business Administration, (GPA: 3.82 / 4.5)
 
 ## 💻 Tech Stack
 ### Language & Library
@@ -33,5 +33,9 @@ I currently reside in Paris, France.
 <a href="https://www.figma.com/" target="_blank"><img src="https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white"/></a>
 
 ## 📫 Contact
+<a href="mailto:hwanee0000@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white"/></a>
+<a href="https://www.linkedin.com/in/jaehwankim-jaehwkim" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white"/></a>
+<a href="https://www.instagram.com/woghksdl/" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white"/></a>
+<a href="https://blog.naver.com/hwanee0000" target="_blank"><img src="https://img.shields.io/badge/Naver_Blog-03C75A?style=flat-square&logo=naver&logoColor=white"/></a>
 
-- Email: hwanee0000@gmail.com
+
