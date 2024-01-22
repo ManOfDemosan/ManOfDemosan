@@ -8,9 +8,10 @@ I currently reside in Paris, France.
 
 ## 🎓 Education
 
-- (Current) École 42, Paris, July 2023 - Present
-- 42 Seoul, Seoul, August 2021 - July 2023
-- Yonsei University, Won-Ju, February 2017 - August 2021 ,Bachelor's degree in Business Administration, (GPA: 3.82 / 4.5)
+ - <a href="https://www.42.fr/" target="_blank"><img src="https://img.shields.io/badge/École_42-000000?style=flat-square&logo=42&logoColor=white"/></a> Paris, July 2023 - Present
+
+- <a href="https://42seoul.kr/" target="_blank"><img src="https://img.shields.io/badge/42_Seoul-000000?style=flat-square&logo=42&logoColor=white"/></a> Seoul, August 2021 - July 2023
+- <a href="https://msb.yonsei.ac.kr/msb/index.do" target="_blank"><img src="https://img.shields.io/badge/Yonsei_University-003399?style=flat-square&logo=yonsei-university&logoColor=white"/></a> Won-Ju, February 2017 - August 2021 ,Bachelor's degree in Business Administration, (GPA: 3.82 / 4.5)
 
 ## 💻 Tech Stack
 ### Language & Library
